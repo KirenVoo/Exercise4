@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise 4</string>
+    <string name="birthDate">Date of Birth</string>
+    <string name="savingTitle">Enter your saving :</string>
+    <string name="allowableInvestment">Allowable Investment Amount: </string>
+    <string name="calculate">Calculate</string>
+    <string name="minSavingTitle">Min. Basic Saving</string>
+</resources>
